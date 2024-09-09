@@ -3,6 +3,8 @@ dist
 out
 build
 node_modules
+.idea/
+.idea/**
 
 # Logs
 *.log*
